@@ -1,0 +1,18 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "final/calculadora/package.json",
+        "final/conversor-de-moedas/package.json",
+        "final/dashboard/package.json",
+        "final/gerenciador-de-tarefas/package.json",
+        "final/jogo-da-velha/package.json",
+        "final/ola-mundo/package.json",
+        "final/projeto-final/package.json",
+        "projetos/calculadora/package.json",
+        "projetos/gerenciador-de-tarefas/package.json",
+        "projetos/ola-mundo/package.json"
+      ]
+    }
+  }
+}
